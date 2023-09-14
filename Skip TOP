@@ -1,0 +1,1 @@
+javascript:function vue(){return document.querySelectorAll("div#problem")[0].__vue__;}vue()._computedWatchers.isProblemCorrect.get = function(){return true;};vue().completeResult();document.querySelectorAll("div#tower-of-power")[0].__vue__.moveOnFromStage(1);
