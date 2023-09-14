@@ -1,0 +1,1 @@
+javascript:document.querySelectorAll("div#guided-practice")[0].__vue__.areCheckpointsSkippable = true;
